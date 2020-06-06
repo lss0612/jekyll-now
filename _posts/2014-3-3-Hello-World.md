@@ -1,10 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Advanced Data Prgramming with Dr Karl Ho
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I am creating my first website using GitHub, specifically the Jekyll Now program. I am a fifth year PhD student finishing up my dissertation. I am working on this advanced data programming class to increase my skills in data science and look forward to learning more.
